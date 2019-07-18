@@ -1,0 +1,11 @@
+D:\TFS_Git\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+D:\TFS_Git\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+D:\TFS_Git\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+D:\TFS_Git\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\TFS_Git\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+D:\TFS_Git\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\TFS_Git\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\TFS_Git\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\TFS_Git\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+D:\TFS_Git\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\TFS_Git\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
