@@ -12,7 +12,9 @@ namespace Tests
         [Test]
         public void Test1()
         {
-            Assert.Pass();
+            Demo_Project.Program d = new Demo_Project.Program();
+            int i = d.add(8, 6);
+            Assert.AreEqual(14, i);
         }
     }
 }
