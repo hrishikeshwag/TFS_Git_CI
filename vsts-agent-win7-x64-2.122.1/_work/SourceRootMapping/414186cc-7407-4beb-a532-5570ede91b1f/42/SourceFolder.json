@@ -1,0 +1,15 @@
+﻿{
+  "build_artifactstagingdirectory": "2\\a",
+  "agent_builddirectory": "2",
+  "collectionUrl": "http://172.27.19.76:8080/tfs/TFS_Practice/",
+  "definitionName": "ChichenItza-.NET Desktop-CI (8)",
+  "fileFormatVersion": 3,
+  "lastRunOn": "07/31/2019 17:48:33 +05:30",
+  "build_sourcesdirectory": "2\\s",
+  "common_testresultsdirectory": "2\\TestResults",
+  "collectionId": "414186cc-7407-4beb-a532-5570ede91b1f",
+  "definitionId": "42",
+  "hashKey": "ddd5d7c125e470fbd8ef67448842f2298e3c3d95",
+  "repositoryUrl": "http://172.27.19.76:8080/tfs/TFS_Practice/_git/ChichenItza",
+  "system": "build"
+}
