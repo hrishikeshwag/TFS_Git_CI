@@ -13,8 +13,8 @@ namespace Tests
         public void Test1()
         {
             Sud_Project.Program d = new Sud_Project.Program();
-            int i = d.sub(8, 6);
-            Assert.AreEqual(2, i);
+            int i = d.sub(9, 6);
+            Assert.AreEqual(3, i);
         }
     }
 }
