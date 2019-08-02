@@ -1,0 +1,15 @@
+﻿{
+  "build_artifactstagingdirectory": "3\\a",
+  "agent_builddirectory": "3",
+  "collectionUrl": "http://172.27.19.76:8080/tfs/TFS_Practice/",
+  "definitionName": "ChichenItza-ASP.NET Core (.NET Framework)-CI (13)",
+  "fileFormatVersion": 3,
+  "lastRunOn": "08/02/2019 10:55:49 +05:30",
+  "build_sourcesdirectory": "3\\s",
+  "common_testresultsdirectory": "3\\TestResults",
+  "collectionId": "414186cc-7407-4beb-a532-5570ede91b1f",
+  "definitionId": "47",
+  "hashKey": "74c5c28efd904a18a801cf68287f3213a00907ef",
+  "repositoryUrl": "http://172.27.19.76:8080/tfs/TFS_Practice/_git/ChichenItza",
+  "system": "build"
+}
