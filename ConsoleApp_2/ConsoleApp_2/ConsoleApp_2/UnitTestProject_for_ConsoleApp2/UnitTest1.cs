@@ -14,22 +14,5 @@ namespace UnitTestProject_for_ConsoleApp2
             double result = c2.Addition(5, 5);
             Assert.AreEqual(result, 10);
         }
-
-        [TestMethod]
-        public void TestMethod2()
-        {
-            Class1 c = new Class1();
-            int res = c.Multip(3, 4);
-            Assert.AreEqual(12, res);
-        }
-
-        [TestMethod]
-
-        public void TestMethod3()
-        {
-            Class1 cc = new Class1();
-            int resultt = cc.Div(5, 10);
-            Assert.AreEqual(2, resultt);
-        }
     }
 }
