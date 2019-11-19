@@ -12,7 +12,7 @@ namespace ConsoleApp_2
         {
             Class1 c = new Class1();
             double a = c.Addition(4,3);
-//dbfdb
+		//test
             Console.WriteLine("Addition is: {0}",a);
             Console.Read();
         }
