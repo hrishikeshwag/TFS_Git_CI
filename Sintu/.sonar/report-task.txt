@@ -1,0 +1,6 @@
+projectKey=hdemo:master
+serverUrl=http://172.27.59.137:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://172.27.59.137:9000/dashboard/index/hdemo:master
+ceTaskId=AW5owvczOgWN8uIix3yt
+ceTaskUrl=http://172.27.59.137:9000/api/ce/task?id=AW5owvczOgWN8uIix3yt
