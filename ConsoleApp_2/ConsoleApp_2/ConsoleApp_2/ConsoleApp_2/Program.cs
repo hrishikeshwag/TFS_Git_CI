@@ -10,7 +10,8 @@ namespace ConsoleApp_2
     {
         static void Main(string[] args)
         {
-            Class1 c = new Class1();
+         //adding comment
+	    Class1 c = new Class1();
             double a = c.Addition(2,3);
             Console.WriteLine("Addition is: {0}",a);
             Console.Read();
